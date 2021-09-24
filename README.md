@@ -1,13 +1,5 @@
 # functions
 
-# yt-getvideos
-
-Simple and complete youtube search API
-
-## Installation
-
-## Easy to use
-
 #### FunctionClear
 
 ```javascript
