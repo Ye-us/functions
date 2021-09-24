@@ -1,6 +1,6 @@
 # functions
 
-#### FunctionClear
+#### FunctionGetMsg
 
 ```javascript
 let messages = []
